@@ -2,7 +2,7 @@
 - 👀 I’m interested in evolution of Digital Marketing
 - 🌱 I’m currently learning SQL and Product Design
 - 💞️ I’m looking to collaborate on Digital Marketing
-- 📫 Reach me on Twitter @ramankrs
+- 📫 Reach me on Twitter [@ramankrs](https://www.twitter.com/ramankrs)
 - 💼 Learn more about my work https://ramankrs.me
 
 <!---
