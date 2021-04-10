@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning SQL and Product Design
 - 💞️ I’m looking to collaborate on Digital Marketing
 - 📫 Reach me on Twitter @ramankrs
+- 💼 Learn more about my work https://ramankrs.me
 
 <!---
 ramankrs/ramankrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
